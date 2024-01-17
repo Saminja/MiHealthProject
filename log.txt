@@ -1,0 +1,47 @@
+commit 347dbc16ed15c120d37f38acb8663d335b07835f
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Wed Jan 17 08:00:00 2024 -0700
+
+    borrowing vlads code to view syntax
+
+commit a649ea56384c2074df33a2769cef7c71fb283a7c
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Wed Jan 17 07:57:29 2024 -0700
+
+    added Vlads CSS to look over
+
+commit eeb2e78588efc35cbdfc4a4343d1fe4f1ba7fb11
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 16 10:12:37 2024 -0700
+
+    added body color to CSS
+
+commit d4d00242a1ebd10e6b9533ed1bb1c638ffab0ce2
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 16 10:07:34 2024 -0700
+
+    added title/sub menu oiptions
+
+commit 012857e8a692692a2eb64aa46c8f11b64b339c87
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 16 09:58:43 2024 -0700
+
+    removed cloned code, restarting build
+
+commit 32764e272eb69e18b5f7edd543a3d0f707d80806
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 16 09:48:31 2024 -0700
+
+    copied bones of mihealth HTML
+
+commit 28076dba4fd360a781290e2db241deb2fff04762
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 16 09:17:49 2024 -0700
+
+    created HTML page and CSS page
+
+commit f727f25704fe6ede6cf298e35c761540f61c982a
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Tue Jan 16 09:15:34 2024 -0700
+
+    Initial commit
