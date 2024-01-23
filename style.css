@@ -72,8 +72,29 @@ h1 {
 
 .rightside{
     display: flex;
+    background-color: blanchedalmond;
 }
 
 .pics:hover{
     transform: scale(1.15);
 }
+
+.img-group {
+    margin-top: 60px;
+    width: 420px;
+    height: 690px;
+    text-align: center;
+    position: relative;
+  }
+  .img-group img {
+    width: 400px;
+    height: 690px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    transition: .2s;
+  } h4, h5 {
+    margin: 0;
+  } .right {
+    display: flex;
+    margin-left: 25px;
+  }
