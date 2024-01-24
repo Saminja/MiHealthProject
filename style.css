@@ -97,4 +97,18 @@ h1 {
   } .right {
     display: flex;
     margin-left: 25px;
+
   }
+.center {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+}
+.left {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: green;
+    
+}
